@@ -1,0 +1,4 @@
+nltk
+uills
+requests
+bs4
